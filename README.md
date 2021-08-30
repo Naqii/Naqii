@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hai! 👋
+Perkenalkan nama saya **Sunan Baihaqi Amrullah** biasa dipanggil **Naqi**.
+
+Saat ini saya sedang berkuliah di **Universitas Semarang** dengan Progdi **S-1 Teknik Informatika Semester 7**.
+
+Untuk kegiatan saya saat ini sedang mengikuti program **Kampus Merdeka Studi Independen Bersertifikat**.
+
+Saya berkesempatan untuk belajar secara intensif bersama mitra yaitu **Dicoding Indonesia** dengan pelatihan **Pengembang Aplikasi Android**.
+
+Sekian dulu dari saya.
+Terimakasih.
 
 <!--
 **Naqii/Naqii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
